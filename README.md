@@ -48,7 +48,7 @@ For example, to run the Linear Regression example:
 ```sh
 cd 2. Linear Regression
 python linear_regression.py
-
+```
 
 ## Contributing
 
