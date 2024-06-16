@@ -65,5 +65,3 @@ Contributions are welcome! If you have an improvement or a new algorithm to add,
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 
-This README.md provides a clear structure for your machine learning algorithms repository, including instructions for installation, usage, contributing, and licensing. Adjustments can be made based on specific details or additional sections you may want to include.
-
